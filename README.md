@@ -59,7 +59,7 @@
     </td>
     <td align="right" width="50%" style="border: none; padding: 0; margin: 0;">
       <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=faiyazml&theme=dark&hide_border=true&background=000000" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=md-faiyazkhan&theme=dark&hide_border=true&background=000000" 
         alt="GitHub Streak" 
         width="100%" 
         style="max-width: 100%; height: auto;" 
