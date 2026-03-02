@@ -51,7 +51,7 @@
   <tr>
     <td align="left" width="50%" style="border: none; padding: 0; margin: 0;">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=faiyazml&show_icons=true&theme=dark&hide_title=true&count_private=true&bg_color=000000&hide_border=true" 
+        src="https://github-readme-stats.vercel.app/api?username=md-faiyazkhan&show_icons=true&theme=dark&hide_title=true&count_private=true&bg_color=000000&hide_border=true" 
         alt="GitHub Stats" 
         width="100%" 
         style="max-width: 100%; height: auto;" 
