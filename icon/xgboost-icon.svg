@@ -1,0 +1,7 @@
+<svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+  <rect width="40" height="40" rx="6" fill="#AA4A44"/>
+  <text x="20" y="14" font-family="Arial,sans-serif" font-size="7" font-weight="bold" fill="white" text-anchor="middle">XG</text>
+  <text x="20" y="23" font-family="Arial,sans-serif" font-size="7" font-weight="bold" fill="white" text-anchor="middle">Boost</text>
+  <line x1="8" y1="27" x2="32" y2="27" stroke="white" stroke-width="0.8" opacity="0.5"/>
+  <polyline points="8,35 13,29 18,33 23,28 28,31 32,26" fill="none" stroke="white" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>
